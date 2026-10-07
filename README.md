@@ -1,2 +1,2 @@
-#Cal Track
-Github page for calorie tracking
+# Cal-Track
+Github page for calorie tracking web app.
